@@ -27,3 +27,6 @@ Copy hotkey-scroll.directive.ts to your project.  Import and export HotkeyScroll
 </div>
 ```
 
+## User Interaction
+
+The div containing the PrimeNg table will need to have focus.  Then pressing the Home, End, Page Up and Page Down keys will adjust the scroll position accordingly.  Tested on a Mac with an extended keyboard.
