@@ -1,5 +1,4 @@
-# hotkeyscroll
-Hotkey Scroll for Primeng Turbo Table in Angular
+# Programmatically Scroll through Primeng Turbo Table in Angular
 
 ## Dependencies
 
