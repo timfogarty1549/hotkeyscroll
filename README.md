@@ -1,4 +1,4 @@
-# Programmatically Scroll through Primeng Turbo Table in Angular
+# Programmatically Scroll through Primeng Turbo Table 
 
 ## Dependencies
 
